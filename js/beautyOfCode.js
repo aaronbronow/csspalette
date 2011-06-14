@@ -19,9 +19,9 @@ jQuery.beautyOfCode = {
         // http://alexgorbatchev.com/wiki/SyntaxHighlighter:Hosting
         baseUrl: '',
         // the baseurl for the hosted scripts
-        scripts: 'scripts/',
+        scripts: 'js/',
         // the baseurl for the hosted styles
-        styles: 'styles/',
+        styles: 'css/',
         // themes from http://alexgorbatchev.com/wiki/SyntaxHighlighter:Themes
         theme: 'Default',
         // the brushes that should be loaded - case sensitive!
