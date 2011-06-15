@@ -14,4 +14,4 @@ A tool for visualizing CSS colors.
 TRY IT
 ===
 
-<a href="http://csspalette.appspot.com/">http://csspalette.appspot.com/</a>
+<a href="http://www.csspalette.com/">http://www.csspalette.com/</a>
